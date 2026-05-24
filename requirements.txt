@@ -1,0 +1,8 @@
+streamlit
+langchain
+pymupdf               # provides the 'fitz' module
+sentence-transformers
+faiss-cpu
+python-dotenv
+requests
+
